@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthDemo.IdentityServer", "JwtAuthDemo.IdentityServer\JwtAuthDemo.IdentityServer.csproj", "{039A574D-B82E-42C4-8543-4FB67E959F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthDemo.AzureFunctions", "JwtAuthDemo.AzureFunctions\JwtAuthDemo.AzureFunctions.csproj", "{68EF672E-F793-4DE5-B5B4-92BBC031DFA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthDemo.AzureFunctions.Host", "JwtAuthDemo.AzureFunctions.Host\JwtAuthDemo.AzureFunctions.Host.csproj", "{735C1238-0392-4D5A-808B-352B8EBF93FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039A574D-B82E-42C4-8543-4FB67E959F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039A574D-B82E-42C4-8543-4FB67E959F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039A574D-B82E-42C4-8543-4FB67E959F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039A574D-B82E-42C4-8543-4FB67E959F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68EF672E-F793-4DE5-B5B4-92BBC031DFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EF672E-F793-4DE5-B5B4-92BBC031DFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EF672E-F793-4DE5-B5B4-92BBC031DFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EF672E-F793-4DE5-B5B4-92BBC031DFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735C1238-0392-4D5A-808B-352B8EBF93FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735C1238-0392-4D5A-808B-352B8EBF93FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735C1238-0392-4D5A-808B-352B8EBF93FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735C1238-0392-4D5A-808B-352B8EBF93FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
